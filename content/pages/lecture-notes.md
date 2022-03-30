@@ -48,7 +48,7 @@ Darrell Coles
 Stress and strain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+([PDF]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 {{< tdopen >}}
 Shane Mcgary
